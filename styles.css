@@ -1,0 +1,44 @@
+.info-desc {
+  width: 75%;
+}
+
+.info-desc h1 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  width: 35%;
+}
+
+.info-desc p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  width: 70%;
+}
+
+li {
+  list-style-type: none;
+}
+
+.info-desc ul li {
+  margin-right: 10px;
+}
+
+.info-section-container {
+  background-image: url(./img/Header\ bg@2x.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: cover;
+}
+
+.card {
+  width: 80%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.card img {
+  width: 400px;
+}
