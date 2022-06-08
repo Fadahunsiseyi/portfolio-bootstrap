@@ -32,3 +32,15 @@ li {
     background-size: cover;
     background-position: cover;
 }
+
+.card {
+  width: 80%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 20px;
+
+}
+
+.card img {
+  width: 400px;
+}
